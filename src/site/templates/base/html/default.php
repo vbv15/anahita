@@ -8,6 +8,7 @@
   	    <?= @render('style') ?>
   	</head>
     <body>
+    	<h1>test</h1>
     	<?= @template('tmpl/modal') ?>
 
         <div id="container-system-message" class="container">
